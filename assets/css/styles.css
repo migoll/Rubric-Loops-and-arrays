@@ -88,3 +88,10 @@ header h2 {
   height: 100px;
 }
 
+.drink-contents-toggle {
+  cursor: pointer; text-decoration: underline; 
+}
+
+.drink-contents {
+  display: none;
+}
