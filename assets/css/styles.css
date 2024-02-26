@@ -83,4 +83,8 @@ header h2 {
 .drink-card p {
   margin-block: 10px;
 }
+.drink-images {
+  width: 100px;
+  height: 100px;
+}
 
